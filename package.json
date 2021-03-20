@@ -1,0 +1,37 @@
+{
+    "name": "fresh-material-theme",
+    "displayName": "Material Fresh Theme 🍰🧁",
+    "description": "A cool and refreshing material theme for you to code awesome 😎 ✔ ✔",
+    "version": "0.0.1",
+    "icon":"icon.png",
+    "publisher": "lakshits11",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "author": {
+        "name": "Lakshit Somani",
+        "email": "lakshits11@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/lakshits11/fresh-material-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Fresh Theme 🍰",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Fresh Theme.json"
+            },
+            {
+                "label": "Material Fresh Theme 🍰 No italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Fresh Theme No Italics.json"
+            }
+        ]
+    }
+}
