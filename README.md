@@ -1,22 +1,10 @@
 
 # MATERIAL FRESH THEME 🍰
 
-![Version](https://vsmarketplacebadge.apphb.com/version/lakshits11.fresh-material-theme.svg?style=for-the-badge&colorA=4B1E97&colorB=280E54)
-
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/lakshits11.fresh-material-theme.svg?style=for-the-badge&colorA=FFC600&colorB=FF9D00)](https://marketplace.visualstudio.com/items?itemName=lakshits11.dracula-redefined)
-
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/lakshits11.fresh-material-theme.svg?style=for-the-badge&colorA=88FF00&colorB=00FF00CC)](https://marketplace.visualstudio.com/items?itemName=lakshits11.dracula-redefined)
-
-<br/>
-
 ## **🍰🌹 MATERIAL FRESH THEME FOR VS CODE 🌹🍰**
-
-<br/>
-<br/>
 
 ## **Material Fresh - A cool and refreshing material theme for you to code awesome 😎**
 
-  <br/>
 <br/>
 
 **Javascript**
@@ -174,19 +162,3 @@ Start upon that here: https://code.visualstudio.com/docs/getstarted/theme-color-
   
 
 Also file issues [here](https://github.com/lakshits11/fresh-material-theme/issues), if you like.
-
-  
-
-## About Me 😀
-
-  
-
-I am just a college student studying Computer Science.
-
-  
-
-By the way I am a photographer too. Check out my work [here](https://www.instagram.com/_.pixelated/)
-
-  
-
-Regards, [Lakshit Somani](https://www.instagram.com/_.pixelated/)
